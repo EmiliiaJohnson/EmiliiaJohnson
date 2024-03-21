@@ -7,7 +7,7 @@
   </h1>
 </div>
 
-### :four_leaf_clover: About me: ###
+### :four_leaf_clover: About me: 
 - :computer: Junior Frontend Developer
 - :briefcase: Looking for career opportunities
 - :car: Currently working on Car Charing pet project
@@ -38,3 +38,19 @@
   <img src="https://stats.quine.sh/EmiliiaJohnson/github?theme=light" alt="My github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmiliiaJohnson&show_icons=true&locale=en&layout=compact" alt="My most used languages" />
   <img src="https://www.codewars.com/users/EmiliiaJohnson/badges/large" alt="My codewars stats" />
+
+  ---
+
+### :v: Contact me:
+<div>
+  <a href="https://telegram.me/emiliiajohnson">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/emiliia-ivanova-91b321270/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:emilydaughternika@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://media.giphy.com/media/lXwEriEvWswj6/giphy.gif?cid=790b76114sweka51ogk2vv3hyv2udaju83640xkv8a677lns&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="60px"/>
+</div>

@@ -10,7 +10,7 @@
 ### :four_leaf_clover: About me: 
 - :computer: Junior Frontend Developer
 - :briefcase: Looking for career opportunities
-- :car: Currently working on Car Charing pet project
+- :car: Currently working on Car Sharing pet project
 - :dart: Practicing my JavaScript skills on Codewars
 - :chess_pawn: Love playing chess
 

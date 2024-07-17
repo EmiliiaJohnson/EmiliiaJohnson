@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" alt="Pusheen typing" width="250px"/>
   <h1>
     Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
-    I'm Emillia<img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="40px"/><br>
+    I'm Emiliia<img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="40px"/><br>
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&color=000&background=FFFFFF&random=false&width=435&height=100&lines=%3CFrontend+Developer%2F%3E" alt="Typing SVG" />
   </h1>
 </div>
